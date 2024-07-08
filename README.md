@@ -12,10 +12,10 @@ In order to set up this integration, you will need:
 - An instance of Fluss+.
 
 ### HACS Installation
-1. Search for "Fluss+" in the HACS store. If you don't see it there, you can add this repository URL as a HACS custom repository.
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/fluss/flussHACS)
+1. Search for "Fluss" in the HACS store. If you don't see it there, you can add this repository URL as a HACS custom repository.
 [add this repository url as a HACS custom repository](https://hacs.xyz/docs/faq/custom_repositories)
 2. Install the integration.
-
 
 ### Home Assistant Integration
 1. Open your Home Assistant instance and start setting up a new integration of a specific brand.
