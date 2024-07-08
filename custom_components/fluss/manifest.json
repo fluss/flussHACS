@@ -1,6 +1,6 @@
 {
   "domain": "fluss",
-  "name": "Fluss +",
+  "name": "fluss",
   "codeowners": ["@fluss"],
   "config_flow": true,
   "dependencies": [],
