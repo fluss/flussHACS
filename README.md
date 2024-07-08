@@ -13,14 +13,11 @@ In order to set up this integration, you will need:
 
 ### HACS Installation
 1. Search for "Fluss+" in the HACS store. If you don't see it there, you can add this repository URL as a HACS custom repository.
-[add this repository url as a HACS custom repository](https://hacs.xyz/docs/faq/custom_repositories).
-[![hacs_badge](https://img.shields.io/badge/HACS-Custom-41BDF5.svg?style=for-the-badge)](https://github.com/meichthys/uptime_kuma)
-
+[add this repository url as a HACS custom repository](https://hacs.xyz/docs/faq/custom_repositories)
 2. Install the integration.
 
 
 ### Home Assistant Integration
 1. Open your Home Assistant instance and start setting up a new integration of a specific brand.
-[![Open your Home Assistant instance and start setting up a new integration of a specific brand.](https://my.home-assistant.io/badges/brand.svg)](https://my.home-assistant.io/redirect/brand/?brand=+Uptime+Kuma)
 2. After installation, set up the integration via the web UI like any other integration. When prompted, provide the following:
     - Fluss+ API key.
