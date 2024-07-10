@@ -1,3 +1,3 @@
 """Constants for the Fluss+ integration."""
 
-DOMAIN = "fluss"
+DOMAIN = "fluss_pluss"
