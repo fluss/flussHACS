@@ -1,5 +1,5 @@
 {
-  "domain": "fluss_pluss",
+  "domain": "fluss",
   "name": "fluss",
   "codeowners": ["@fluss"],
   "config_flow": true,
